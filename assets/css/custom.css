@@ -1,0 +1,71 @@
+body{
+	background-color: whitesmoke;
+	font-family: serif;
+}
+.title-section{
+	font-weight: bold;
+}
+.btn.btn-primary.btn-ybr{
+	background: #FBC84F;
+	color: #141F35;
+	font-size: 20px;
+}
+.navbar.navbar-expand-lg{
+	background-color: #141F35;
+	padding: 1%;	
+}
+.navbar.navbar-expand-lg .navbar-nav .nav-item{
+	font-size: 18px;
+
+}
+.container-fluid.my-banner{
+	background: #141F35;
+	padding: 14%;
+	color: #FFFFFF;
+	text-align: center;
+}
+.container-fluid.my-banner .txtybr{
+	font-weight: bold;
+	color: #FBC84F;
+}
+.container-fluid.why-mentoring{
+	background: #FFFFFF;
+	padding: 4%;
+	color: #141F35;
+	text-align: center;
+}
+.container-fluid.why-mentoring .row{
+	padding: 3%;
+	vertical-align: middle;
+}
+.container-fluid.why-mentoring .row p{
+	font-size: 20px;
+}
+.container-fluid.why-mentoring .row .col-sm-6{
+/*	vertical-align: middle;*/
+	margin: auto;
+}
+.container-fluid.why-mentoring img{
+	width: 100%;
+}
+
+.container-fluid.umum{
+	background: #141F35;
+	padding: 4%;
+	color: #FFFFFF;
+	text-align: center;
+}
+.container-fluid.umum .row{
+	padding: 3%;
+	vertical-align: middle;
+}
+.container-fluid.umum .row p{
+	font-size: 20px;
+}
+.container-fluid.umum .row .col-sm-6{
+/*	vertical-align: middle;*/
+	margin: auto;
+}
+.container-fluid.umum img{
+	width: 100%;
+}

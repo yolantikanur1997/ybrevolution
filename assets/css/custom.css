@@ -1,32 +1,109 @@
-body{
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+.navbar.navbar-expand-lg .navbar-nav .nav-item{
+	font-size: 20px;
+
+}
+.navbar.navbar-expand-lg .navbar-brand{
+	font-size: 20px;
+
+}
+.container-fluid.my-banner h1{
+	font-size: 60px;
+
+}
+.container-fluid.my-banner h3{
+	font-size: 40px;
+
+}
+.container-fluid.my-banner h5{
+	font-size: 20px;
+
+}
+.btn.btn-ybr{
+	background: #FBC84F;
+	color: #141F35;
+	font-size: 30px;
+}
+.container-fluid.my-banner{
+	background: #141F35;
+	padding: 14%;
+	color: #FFFFFF;
+	text-align: left;
+}
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+/*@media only screen and (min-width: 600px) {...}*/
+
+/* Medium devices (landscape tablets, 768px and up) */
+/*@media only screen and (min-width: 768px) {...}*/
+
+/* Large devices (laptops/desktops, 992px and up) */
+/*@media only screen and (min-width: 992px) {...}*/
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+.navbar.navbar-expand-lg .navbar-nav .nav-item{
+	font-size: 25px;
+
+}
+.navbar.navbar-expand-lg .navbar-brand{
+	font-size: 25px;
+
+}
+.container-fluid.my-banner h1{
+	font-size: 60px;
+
+}
+.container-fluid.my-banner h3{
+	font-size: 40px;
+
+}
+.container-fluid.my-banner h5{
+	font-size: 20px;
+
+}
+.btn.btn-ybr{
+	background: #FBC84F;
+	color: #141F35;
+	font-size: 30px;
+}
+.container-fluid.my-banner{
+	background: #141F35;
+	padding: 14%;
+	color: #FFFFFF;
+	text-align: left;
+}
+}
+  body{
 	background-color: whitesmoke;
 	font-family: serif;
 }
 .title-section{
 	font-weight: bold;
 }
-.btn.btn-primary.btn-ybr{
-	background: #FBC84F;
-	color: #141F35;
-	font-size: 20px;
-}
+
 .navbar.navbar-expand-lg{
 	background-color: #141F35;
 	padding: 1%;	
 }
-.navbar.navbar-expand-lg .navbar-nav .nav-item{
-	font-size: 18px;
 
+
+.container-fluid.my-banner .row .col-lg-6.col-md-12.col-sm-12.txt-header{
+	/*display: block;*/
+	margin: auto;
+	
 }
-.container-fluid.my-banner{
-	background: #141F35;
-	padding: 14%;
-	color: #FFFFFF;
-	text-align: center;
-}
+
 .container-fluid.my-banner .txtybr{
 	font-weight: bold;
 	color: #FBC84F;
+}
+.container-fluid.my-banner img{
+	display: block;
+	margin: 0px auto 0px auto;
+	width: 80%;
 }
 .container-fluid.why-mentoring{
 	background: #FFFFFF;
@@ -69,3 +146,5 @@ body{
 .container-fluid.umum img{
 	width: 100%;
 }
+
+/*}*/

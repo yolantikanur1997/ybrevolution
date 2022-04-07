@@ -40,10 +40,19 @@
 
 			<!-- banner -->
 			<div class="container-fluid my-banner">
-			<h1><span class="txtybr">Halo</span>, Selamat Datang!</h1><br>
-			<h3>di <!-- <span class="txtybr">Price List</span>  --><span class="txtybr">YBRevolution</span></h3><br>
+      <div class="row">
+      <div class="col-lg-6 col-md-12 col-sm-12 txt-header">
+			<h1><span class="txtybr">Temukan!</span> yang Anda Butuhkan Disini</h1><br>
+			<h3>Mentoring / Marketing</h3><br>
 			<h5>#mentorinAja | #dibawaMudahAja</h5>
+      <br>
+      <a href="mailto:bisnisybrevolution@gmail.com"><button class="btn btn-ybr">Tanya Kami</button></a>
 			<br>
+    </div>
+    <div class="col-lg-6 col-md-12 col-sm-12">
+            <img src="assets/img/header-ybrevolution.jpg">
+    </div>
+       </div>
 			</div>
 			<!-- mentoring -->
 			<div class="container-fluid why-mentoring">
@@ -51,7 +60,7 @@
 				<div class="row">
 					<div class="col-sm-6">
 						<p>YBRevolution menyediakan wadah bagi mahasiswa / mahasiswa akhir IT untuk mendapatkan kemudahan dalam menyusun serta memahami laporan tugas akhir / skripsi dan dipandu oleh mentor yang berpengalaman.</p>
-						<button type="button" class="btn btn-primary btn-ybr">Lihat Paket Mentoring</button>
+						<button type="button" class="btn btn-ybr">Lihat Paket Mentoring</button>
 					</div>
 					<div class="col-sm-6">
 						<img src="assets/img/4905784.jpg">
@@ -68,7 +77,7 @@
 					</div>
 					<div class="col-sm-6">
 						<p>YBRevolution memperhatikan bahwa website merupakan salah satu sarana penting untuk .</p>
-						<button type="button" class="btn btn-primary btn-ybr">Lihat Paket Mentoring</button>
+						<button type="button" class="btn btn-ybr">Lihat Paket Mentoring</button>
 					</div>
 				</div>
 			</div>

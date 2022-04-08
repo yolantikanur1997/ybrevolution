@@ -17,8 +17,9 @@
   </head>
   <body>
    <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
-   	<div class="container">
-  <a class="navbar-brand" href="#">YBRevolution</a>
+   	<div class="container-fluid">
+      <a class="navbar-brand" href="#"> <img src="assets/img/logo-header-ybr.png" width="200" height="50" alt="">
+   </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -33,7 +34,7 @@
       <li class="nav-item">
         <a class="nav-link" href="#">Umum</a>
       </li>
-    </ul>
+    </ul>   
 </div>
   </div>
 </nav>
@@ -42,14 +43,14 @@
 			<div class="container-fluid my-banner">
       <div class="row">
       <div class="col-lg-6 col-md-12 col-sm-12 txt-header">
-			<h1><span class="txtybr">Temukan!</span> yang Anda Butuhkan Disini</h1><br>
+			<h1><span class="txtybr">Temukan!</span> yang Anda Butuhkan <span class="txtybr">Disini</span></h1><br>
 			<h3>Mentoring / Marketing</h3><br>
-			<h5>#mentorinAja | #dibawaMudahAja</h5>
+			<h5>#mentorinAja #dibawaMudahAja</h5>
       <br>
       <a href="mailto:bisnisybrevolution@gmail.com"><button class="btn btn-ybr">Tanya Kami</button></a>
 			<br>
     </div>
-    <div class="col-lg-6 col-md-12 col-sm-12">
+    <div class="col-lg-6 col-md-12 col-sm-12 img-header">
             <img src="assets/img/header-ybrevolution.jpg">
     </div>
        </div>
@@ -57,10 +58,11 @@
 			<!-- mentoring -->
 			<div class="container-fluid why-mentoring">
 				<h1 class="title-section">Mentoring</h1>
+        <p>Anda akan diberikan arahan, tips, trik dalam penyusunan laporan Tugas Akhir dan juga pemahaman terkait program yang dibangun sesuai rancangan.</p>
 				<div class="row">
 					<div class="col-sm-6">
 						<p>YBRevolution menyediakan wadah bagi mahasiswa / mahasiswa akhir IT untuk mendapatkan kemudahan dalam menyusun serta memahami laporan tugas akhir / skripsi dan dipandu oleh mentor yang berpengalaman.</p>
-						<button type="button" class="btn btn-ybr">Lihat Paket Mentoring</button>
+						<button type="button" class="btn btn-ybr">Lihat Paket</button>
 					</div>
 					<div class="col-sm-6">
 						<img src="assets/img/4905784.jpg">
@@ -71,13 +73,14 @@
 			<!-- umum -->
 			<div class="container-fluid umum">
 				<h1 class="title-section">Umum</h1>
+        <p>Anda dapat menentukan apa yang anda butuhkan seperti toko online, company profile, landing pages atau web application guna menunjang kemudahan bisnis anda.</p>
 				<div class="row">
 					<div class="col-sm-6">
 						<img src="assets/img/umum.png">
 					</div>
 					<div class="col-sm-6">
-						<p>YBRevolution memperhatikan bahwa website merupakan salah satu sarana penting untuk .</p>
-						<button type="button" class="btn btn-ybr">Lihat Paket Mentoring</button>
+						<p>YBRevolution memperhatikan bahwa website merupakan salah satu sarana penting untuk memasarkan produk, jasa yang diusahakan. Selain menjadi sarana pemasaran, website juga dapat menjadi wadah pengumpulan data guna mengambil keputusan.</p>
+						<button type="button" class="btn btn-ybr">Lihat Paket</button>
 					</div>
 				</div>
 			</div>

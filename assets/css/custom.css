@@ -2,28 +2,45 @@
 @media only screen and (max-width: 600px) {
 .navbar.navbar-expand-lg .navbar-nav .nav-item{
 	font-size: 20px;
+	padding: 0 0 0 2%;
 
 }
 .navbar.navbar-expand-lg .navbar-brand{
 	font-size: 20px;
+	padding: 0 0 0 2%;
 
+}
+.container-fluid.my-banner .row{
+	display: flex;
+	  flex-wrap: wrap;
+	  flex-direction: column-reverse;
+   /* so that items wrap */
+}
+.container-fluid.my-banner .row .col-lg-6.col-md-12.col-sm-12.txt-header{
+	text-align: center;
+	margin: 5% 0 0 0;
+	
+}
+.container-fluid.my-banner .col-lg-6.col-md-12.col-sm-12.img-header img{
+	margin: 10% auto 0px auto;
+	width: 100%;
 }
 .container-fluid.my-banner h1{
-	font-size: 60px;
-
-}
-.container-fluid.my-banner h3{
 	font-size: 40px;
 
 }
-.container-fluid.my-banner h5{
+.container-fluid.my-banner h3{
 	font-size: 20px;
+
+}
+.container-fluid.my-banner h5{
+	font-size: 15px;
 
 }
 .btn.btn-ybr{
 	background: #FBC84F;
 	color: #141F35;
-	font-size: 30px;
+	font-size: 20px;
 }
 .container-fluid.my-banner{
 	background: #141F35;
@@ -31,6 +48,22 @@
 	color: #FFFFFF;
 	text-align: left;
 }
+.container-fluid.why-mentoring{
+	padding: 10%;
+}
+.container-fluid.why-mentoring .row{
+	display: flex;
+	  flex-wrap: wrap;
+	  flex-direction: column-reverse;
+
+}
+.container-fluid.umum img{
+	width: 100%;
+}
+.container-fluid.umum{
+	padding: 10%;
+}
+
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
@@ -67,13 +100,28 @@
 .btn.btn-ybr{
 	background: #FBC84F;
 	color: #141F35;
-	font-size: 30px;
+	font-size: 20px;
+	padding: 10px;
 }
 .container-fluid.my-banner{
 	background: #141F35;
 	padding: 14%;
 	color: #FFFFFF;
 	text-align: left;
+}
+.container-fluid.umum img{
+	width: 80%;
+}
+.container-fluid.my-banner img{
+	display: block;
+	margin: 0px auto 0px auto;
+	width: 80%;
+}
+.container-fluid.why-mentoring{
+	padding: 4%;
+}
+.container-fluid.umum{
+	padding: 4%;
 }
 }
   body{
@@ -89,28 +137,17 @@
 	padding: 1%;	
 }
 
-
-.container-fluid.my-banner .row .col-lg-6.col-md-12.col-sm-12.txt-header{
-	/*display: block;*/
-	margin: auto;
-	
-}
-
 .container-fluid.my-banner .txtybr{
 	font-weight: bold;
 	color: #FBC84F;
 }
-.container-fluid.my-banner img{
-	display: block;
-	margin: 0px auto 0px auto;
-	width: 80%;
-}
 .container-fluid.why-mentoring{
-	background: #FFFFFF;
 	padding: 4%;
+	background: #FFFFFF;
 	color: #141F35;
 	text-align: center;
 }
+
 .container-fluid.why-mentoring .row{
 	padding: 3%;
 	vertical-align: middle;
@@ -128,7 +165,6 @@
 
 .container-fluid.umum{
 	background: #141F35;
-	padding: 4%;
 	color: #FFFFFF;
 	text-align: center;
 }
@@ -143,8 +179,6 @@
 /*	vertical-align: middle;*/
 	margin: auto;
 }
-.container-fluid.umum img{
-	width: 100%;
-}
+
 
 /*}*/

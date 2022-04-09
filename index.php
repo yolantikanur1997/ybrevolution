@@ -85,6 +85,21 @@
 				</div>
 			</div>
 
+      <!-- portofolio -->
+    <!--   <div class="container-fluid why-mentoring">
+        <h1 class="title-section">Mentoring</h1>
+        <p>Anda akan diberikan arahan, tips, trik dalam penyusunan laporan Tugas Akhir dan juga pemahaman terkait program yang dibangun sesuai rancangan.</p>
+        <div class="row">
+          <div class="col-sm-6">
+            <p>YBRevolution menyediakan wadah bagi mahasiswa / mahasiswa akhir IT untuk mendapatkan kemudahan dalam menyusun serta memahami laporan tugas akhir / skripsi dan dipandu oleh mentor yang berpengalaman.</p>
+            <button type="button" class="btn btn-ybr">Lihat Paket</button>
+          </div>
+          <div class="col-sm-6">
+            <img src="assets/img/4905784.jpg">
+          </div>
+        </div>
+      </div> -->
+
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>

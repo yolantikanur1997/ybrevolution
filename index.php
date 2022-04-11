@@ -73,32 +73,31 @@
 			<!-- umum -->
 			<div class="container-fluid umum">
 				<h1 class="title-section">Umum</h1>
-        <p>Anda dapat menentukan apa yang anda butuhkan seperti toko online, company profile, landing pages atau web application guna menunjang kemudahan bisnis anda.</p>
+        <p>Anda dapat menentukan apa yang anda butuhkan dan marketing seperti apa yang anda inginkan guna menunjang kemudahan bisnis anda.</p>
 				<div class="row">
 					<div class="col-sm-6">
 						<img src="assets/img/umum.png">
 					</div>
 					<div class="col-sm-6">
-						<p>YBRevolution memperhatikan bahwa website merupakan salah satu sarana penting untuk memasarkan produk, jasa yang diusahakan. Selain menjadi sarana pemasaran, website juga dapat menjadi wadah pengumpulan data guna mengambil keputusan.</p>
+						<p>YBRevolution memperhatikan bahwa digital marketing merupakan salah satu kegiatan penting untuk memasarkan produk atau jasa yang diusahakan. Maka dari itu YBRevolution menyediakan jasa untuk langkah awal anda memulai pemasaran menggunakan website dan media sosial sesuai keinginan anda.</p>
 						<button type="button" class="btn btn-ybr">Lihat Paket</button>
 					</div>
 				</div>
 			</div>
 
       <!-- portofolio -->
-    <!--   <div class="container-fluid why-mentoring">
-        <h1 class="title-section">Mentoring</h1>
-        <p>Anda akan diberikan arahan, tips, trik dalam penyusunan laporan Tugas Akhir dan juga pemahaman terkait program yang dibangun sesuai rancangan.</p>
+      <div class="container-fluid portofolio">
         <div class="row">
           <div class="col-sm-6">
-            <p>YBRevolution menyediakan wadah bagi mahasiswa / mahasiswa akhir IT untuk mendapatkan kemudahan dalam menyusun serta memahami laporan tugas akhir / skripsi dan dipandu oleh mentor yang berpengalaman.</p>
+            <h1><span class="txtybr">Tunjukkan!</span> Karyamu di Website <span class="txtybr">Portofolio</span></h1>
+            <h3>Buat portofoliomu dan tunjukkan karyamu mulai dari 50 Ribu Rupiah / Bulan</h3>
             <button type="button" class="btn btn-ybr">Lihat Paket</button>
           </div>
-          <div class="col-sm-6">
-            <img src="assets/img/4905784.jpg">
+            <div class="col-sm-6">
+            <img src="assets/img/portofolio.png">
           </div>
         </div>
-      </div> -->
+      </div>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

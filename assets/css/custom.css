@@ -1,4 +1,4 @@
-/* Extra small devices (phones, 600px and down) */
+ /*Extra small devices (phones, 600px and down) */*/
 @media only screen and (max-width: 600px) {
 .navbar.navbar-expand-lg .navbar-nav .nav-item{
 	font-size: 20px;
@@ -61,7 +61,7 @@
 	  flex-direction: column-reverse;
 
 }
-.container-fluid.why-mentoring .row{
+.container-fluid.umum .row{
 	display: flex;
 	  flex-wrap: wrap;
 	  flex-direction: column-reverse;
@@ -94,7 +94,7 @@
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (max-width: 769px) {
+@media only screen and (max-width: 991px) {
 	.navbar.navbar-expand-lg .navbar-nav .nav-item{
 	font-size: 20px;
 	padding: 0 0 0 2%;
@@ -156,12 +156,7 @@
 	  flex-direction: column-reverse;*/
 
 }
-.container-fluid.why-mentoring .row{
-/*	display: flex;
-	  flex-wrap: wrap;
-	  flex-direction: column-reverse;*/
 
-}
 .container-fluid.why-mentoring .row .col-sm-6{
 	padding: 2% 0 0 0;
 }
@@ -188,8 +183,7 @@
 }
 }
 
-/* Medium devices (landscape tablets, 768px and up) */
-/*@media only screen and (min-width: 768px) {...}*/
+
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
@@ -339,6 +333,20 @@
 .container-fluid.umum img{
 	width: 80%;
 }
+.container-fluid.portofolio{
+	padding: 4%;
+}
+.container-fluid.portofolio img{
+	width: 100%;
+	margin: 0px auto 0px auto;
+
+}
+.container-fluid.portofolio h1{
+	font-size: 60px;
+}
+.container-fluid.portofolio h3{
+	font-size: 30px;
+}
 }
   body{
 	background-color: whitesmoke;
@@ -391,9 +399,26 @@
 	font-size: 20px;
 }
 .container-fluid.umum .row .col-sm-6{
-/*	vertical-align: middle;*/
 	margin: auto;
 }
+.container-fluid.portofolio{
+	background: #FFFFFF;
+	color: #000000;
+}
+.container-fluid.portofolio img{
+	margin: 0px auto 0px auto;
 
-
-/*}*/
+}
+.container-fluid.portofolio .row{
+	padding: 3%;
+	vertical-align: middle;
+}
+.container-fluid.portofolio .row .col-sm-6{
+	/*vertical-align: middle;*/
+	margin: auto;
+}
+.container-fluid.portofolio .txtybr{
+	font-weight: bold;
+	color: #141F35;
+}
+/*}

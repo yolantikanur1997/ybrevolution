@@ -1,15 +1,12 @@
- /*Extra small devices (phones, 600px and down) */*/
-@media only screen and (max-width: 600px) {
+ /*Extra small devices (phones, 600px and down) */
+ @media (max-width: 990px) {
 .navbar.navbar-expand-lg .navbar-nav .nav-item{
 	font-size: 20px;
-	padding: 0 0 0 2%;
-	
-
+	padding: 0 0 0 2%;	
 }
 .navbar.navbar-expand-lg .navbar-brand{
 	font-size: 20px;
 	padding: 0 0 0 2%;
-
 }
 .container-fluid.my-banner .row{
 	display: flex;
@@ -19,8 +16,7 @@
 }
 .container-fluid.my-banner .row .col-lg-6.col-md-12.col-sm-12.txt-header{
 	text-align: center;
-	margin: 5% 0 0 0;
-	
+	margin: 5% 0 0 0;	
 }
 .container-fluid.my-banner .col-lg-6.col-md-12.col-sm-12.img-header img{
 	margin: 10% auto 0px auto;
@@ -32,15 +28,14 @@
 }
 .container-fluid.my-banner h3{
 	font-size: 20px;
-
 }
 .container-fluid.my-banner h5{
 	font-size: 15px;
-
 }
 .btn.btn-ybr{
-	background: #FBC84F;
-	color: #141F35;
+	font-size: 20px;
+}
+.btn.btn-ybr-biru{
 	font-size: 20px;
 }
 .container-fluid.my-banner{
@@ -59,22 +54,22 @@
 	display: flex;
 	  flex-wrap: wrap;
 	  flex-direction: column-reverse;
-
 }
-.container-fluid.umum .row{
+.container-fluid.portofolio .row{
 	display: flex;
 	  flex-wrap: wrap;
 	  flex-direction: column-reverse;
-
+   /* so that items wrap */
 }
-.container-fluid.why-mentoring .row .col-sm-6{
+.container-fluid.why-mentoring .row .col-lg-6.col-md-12.col-sm-12{
 	padding: 2% 0 0 0;
+
 }
 .container-fluid.why-mentoring p{
 	font-size: 15px;
 }
-.container-fluid.why-mentoring .row .col-sm-6 p{
-	font-size: 18px;
+.container-fluid.why-mentoring .row .col-lg-6.col-md-12.col-sm-12 p{
+	font-size: 19px;
 }
 .container-fluid.umum img{
 	width: 90%;
@@ -82,113 +77,54 @@
 .container-fluid.umum{
 	padding: 10%;
 }
-.container-fluid.umum .row .col-sm-6{
-	padding: 5% 0 0 0;
+.container-fluid.umum .row .col-lg-6.col-md-12.col-sm-12{
+	padding: 5% 0px 0px 0px;
 }
 .container-fluid.umum p{
 	font-size: 15px;
 }
-.container-fluid.umum .row .col-sm-6 p{
-	font-size: 18px;
+.container-fluid.umum .row .col-lg-6.col-md-12.col-sm-12 p{
+	font-size: 19px;
 }
-}
-
-/* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (max-width: 991px) {
-	.navbar.navbar-expand-lg .navbar-nav .nav-item{
-	font-size: 20px;
-	padding: 0 0 0 2%;
-
-
-}
-.navbar.navbar-expand-lg .navbar-brand{
-	font-size: 20px;
-	padding: 0 0 0 2%;
-
-}
-.container-fluid.my-banner .row{
-	display: flex;
-	  flex-wrap: wrap;
-	  flex-direction: column-reverse;
-    /*so that items wrap */
-}
-.container-fluid.my-banner .row .col-lg-6.col-md-12.col-sm-12.txt-header{
+.container-fluid.portofolio{
+	padding: 14% 4% 14% 4%;
 	text-align: center;
-	margin: 5% 0 0 0;
 	
 }
-.container-fluid.my-banner .col-lg-6.col-md-12.col-sm-12.img-header img{
-	margin: 10% auto 0px auto;
+.container-fluid.portofolio {
+	padding: 14% 4% 14% 4%;
+		
+}
+.container-fluid.portofolio img{
 	width: 100%;
+
 }
-.container-fluid.my-banner h1{
+.container-fluid.portofolio h1{
 	font-size: 40px;
-
 }
-.container-fluid.my-banner h3{
-	font-size: 20px;
-
-}
-.container-fluid.my-banner h5{
-	font-size: 15px;
-
-}
-.btn.btn-ybr{
-	background: #FBC84F;
-	color: #141F35;
+.container-fluid.portofolio h3{
 	font-size: 20px;
 }
-.container-fluid.my-banner{
-	background: #141F35;
-	padding: 14%;
-	color: #FFFFFF;
-	text-align: left;
-}
-.title-section{
-	font-size: 30px;
-}
-.container-fluid.why-mentoring{
-	padding: 7% 5% 7% 5%;
-}
-.container-fluid.why-mentoring .row{
-/*	display: flex;
-	  flex-wrap: wrap;
-	  flex-direction: column-reverse;*/
 
+.container-fluid.portofolio .row .col-lg-6.col-md-12.col-sm-12{
+	padding-top: 5%;
 }
-
-.container-fluid.why-mentoring .row .col-sm-6{
-	padding: 2% 0 0 0;
+.container-fluid.portofolio .row .col-lg-6.col-md-12.col-sm-12 ul{
+	padding-left: 0px;
 }
-.container-fluid.why-mentoring p{
-	font-size: 15px;
-}
-.container-fluid.why-mentoring .row .col-sm-6 p{
+.container-fluid.portofolio .row .col-lg-6.col-md-12.col-sm-12 ul li{
 	font-size: 16px;
-}
-.container-fluid.umum img{
-	width: 90%;
-}
-.container-fluid.umum{
-	padding: 7% 5% 7% 5%;
-}
-.container-fluid.umum .row .col-sm-6{
-	padding: 5% 0 0 0;
-}
-.container-fluid.umum p{
-	font-size: 15px;
-}
-.container-fluid.umum .row .col-sm-6 p{
-	font-size: 16px;
+	margin-left: 0px;
+	list-style-type: none;
 }
 }
 
 
-
-/* Large devices (laptops/desktops, 992px and up) */
-@media only screen and (min-width: 992px) {
+ /*Large devices (laptops/desktops, 992px and up) */
+@media (min-width: 1000px) {
 	.navbar.navbar-expand-lg .navbar-nav .nav-item{
 	font-size: 20px;
+
 
 }
 .navbar.navbar-expand-lg .navbar-brand{
@@ -208,10 +144,13 @@
 
 }
 .btn.btn-ybr{
-	background: #FBC84F;
-	color: #141F35;
 	font-size: 20px;
 	padding: 10px;
+}
+.btn.btn-ybr-biru{
+	font-size: 20px;
+	padding: 10px;
+
 }
 .container-fluid.my-banner{
 	background: #141F35;
@@ -225,12 +164,12 @@
 .container-fluid.my-banner img{
 	display: block;
 	margin: 0px auto 0px auto;
-	width: 80%;
+	width: 100%;
 }
 .container-fluid.why-mentoring{
 	padding: 4%;
 }
-.container-fluid.why-mentoring .row .col-sm-6{
+.container-fluid.why-mentoring .row .col-lg-6.col-md-12.col-sm-12{
 	margin: auto;
 	padding: 0% 0 0 0;
 }
@@ -240,28 +179,49 @@
 .container-fluid.why-mentoring p{
 	font-size: 20px;
 }
-.container-fluid.why-mentoring .row .col-sm-6 p{
+.container-fluid.why-mentoring .row .col-lg-6.col-md-12.col-sm-12 p{
 	font-size: 25px;
 }
 .container-fluid.umum{
 	padding: 4%;
 }
-.container-fluid.umum .row .col-sm-6{
+.container-fluid.umum .row .col-lg-6.col-md-12.col-sm-12{
 	padding: 5% 0 0 0;
 }
 .container-fluid.umum p{
 	font-size: 20px;
 }
-.container-fluid.umum .row .col-sm-6 p{
+.container-fluid.umum .row .col-lg-6.col-md-12.col-sm-12 p{
 	font-size: 25px;
 }
 .container-fluid.umum img{
 	width: 80%;
 }
+.container-fluid.portofolio{
+	padding: 4%;
+}
+.container-fluid.portofolio img{
+	width: 100%;
+	margin: 0px auto 0px auto;
+
+}
+.container-fluid.portofolio h1{
+	font-size: 50px;
+}
+.container-fluid.portofolio h3{
+	font-size: 20px;
+}
+.container-fluid.portofolio .row .col-lg-6.col-md-12.col-sm-12 ul{
+	padding-left: 4%;
+}
+.container-fluid.portofolio .row .col-lg-6.col-md-12.col-sm-12 ul li{
+	font-size: 18px;
+}
 }
 
-/* Extra large devices (large laptops and desktops, 1200px and up) */
-@media only screen and (min-width: 1200px) {
+
+ /*Extra large devices (large laptops and desktops, 1200px and up) */
+@media (min-width: 1200px) {
 .navbar.navbar-expand-lg .navbar-nav .nav-item{
 	font-size: 25px;
 
@@ -283,10 +243,13 @@
 
 }
 .btn.btn-ybr{
-	background: #FBC84F;
-	color: #141F35;
 	font-size: 20px;
 	padding: 10px;
+}
+.btn.btn-ybr-biru{
+	font-size: 20px;
+	padding: 10px;
+
 }
 .container-fluid.my-banner{
 	background: #141F35;
@@ -305,7 +268,7 @@
 .container-fluid.why-mentoring{
 	padding: 4%;
 }
-.container-fluid.why-mentoring .row .col-sm-6{
+.container-fluid.why-mentoring .row .col-lg-6.col-md-12.col-sm-12{
 	margin: auto;
 	padding: 0% 0 0 0;
 }
@@ -315,19 +278,19 @@
 .container-fluid.why-mentoring p{
 	font-size: 20px;
 }
-.container-fluid.why-mentoring .row .col-sm-6 p{
+.container-fluid.why-mentoring .row .col-lg-6.col-md-12.col-sm-12 p{
 	font-size: 25px;
 }
 .container-fluid.umum{
 	padding: 4%;
 }
-.container-fluid.umum .row .col-sm-6{
+.container-fluid.umum .row .col-lg-6.col-md-12.col-sm-12{
 	padding: 5% 0 0 0;
 }
 .container-fluid.umum p{
 	font-size: 20px;
 }
-.container-fluid.umum .row .col-sm-6 p{
+.container-fluid.umum .row .col-lg-6.col-md-12.col-sm-12 p{
 	font-size: 25px;
 }
 .container-fluid.umum img{
@@ -347,6 +310,10 @@
 .container-fluid.portofolio h3{
 	font-size: 30px;
 }
+.container-fluid.portofolio .row .col-lg-6.col-md-12.col-sm-12 ul li{
+	font-size: 20px;
+
+}
 }
   body{
 	background-color: whitesmoke;
@@ -364,7 +331,15 @@
 	background-color: #141F35;
 	padding: 1%;	
 }
+.btn.btn-ybr{
+	background: #FBC84F;
+	color: #141F35;
+}
+.btn.btn-ybr-biru{
+	background: #141F35;
+	color: #FBC84F;
 
+}
 .container-fluid.my-banner .txtybr{
 	font-weight: bold;
 	color: #FBC84F;
@@ -379,7 +354,7 @@
 	vertical-align: middle;
 }
 
-.container-fluid.why-mentoring .row .col-sm-6{
+.container-fluid.why-mentoring .row .col-lg-6.col-md-12.col-sm-12{
 	margin: auto;
 }
 .container-fluid.why-mentoring img{
@@ -398,9 +373,10 @@
 .container-fluid.umum .row p{
 	font-size: 20px;
 }
-.container-fluid.umum .row .col-sm-6{
+.container-fluid.umum .row .col-lg-6.col-md-12.col-sm-12{
 	margin: auto;
 }
+
 .container-fluid.portofolio{
 	background: #FFFFFF;
 	color: #000000;
@@ -413,7 +389,7 @@
 	padding: 3%;
 	vertical-align: middle;
 }
-.container-fluid.portofolio .row .col-sm-6{
+.container-fluid.portofolio .row .col-lg-6.col-md-12.col-sm-12{
 	/*vertical-align: middle;*/
 	margin: auto;
 }
@@ -421,4 +397,3 @@
 	font-weight: bold;
 	color: #141F35;
 }
-/*}

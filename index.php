@@ -3,6 +3,7 @@
   <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
+    <link rel="icon" href="assets/img/logo.png" type="ico/image">
      <meta name="description" content="YBRevolution">
       <meta name="keywords" content="Penyedia jasa mentoring tugas akhir dan pembuatan website di Sanggau, Pontianak, Kalimantan Barat">
       <meta name="author" content="YBRevolution">
@@ -10,7 +11,6 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-     <script src="https://kit.fontawesome.com/5704997521.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="assets/css/custom.css" type="text/css">
 
     <title>YBRevolution</title>
@@ -108,8 +108,82 @@
         </div>
       </div>
 
+        <!-- kata-client -->
+      <div class="container-fluid kata-client">
+        <h1 class="title-section">Kata Client</h1>
+        <p>Sepatah dua patah kata client YBRevolution yang terhormat.</p>
+        <div class="row">
+          <div class="col-lg-12 col-md-12 col-sm-12">
+           <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                  <p>"Kesannya selama mentoring sangat membantu dan sangat memuaskan serta penjelasan mentor yang mudah di pahami. Semoga kedepannya, YBR bisa semakin sukes dan banyak mahasiswa maupun masyarakat umum yang ingin belajar bersama YBR. Terimakasih banyak atas mentoringnya sukses selalu".
+                    <br>
+                    <br>
+                    <span class="kata-client-judul">Putri</span>
+                     <br>
+                    <span  class="kata-client-paket">Mentoring Programming</span>
+                  </p>
+                </div>
+                <div class="carousel-item">
+                  <p>"Selama kegiatan mentoring, komunikasi sangat nyaman dan penjelasan dari mentor mudah dimengerti. Mentor juga memberikan arahan dengan baik agar mahasiswa/i yang dimentoring tidak merasa kesulitan dalam  menyelesaikan program yang akan dibuat. Semoga kedepannya YBR semakin berkembang dan selalu memberikan arahan dan saran terbaik untuk membantu mahasiswa/i dalam membuat program".
+                    <br>
+                    <br>
+                    <span class="kata-client-judul">Tita</span>
+                     <br>
+                    <span  class="kata-client-paket">Mentoring Programming</span>
+                  </p>
+                </div>
+                <div class="carousel-item">
+                  <p>"Best, banyak perubahan dan revisi berkali-kali hingga project finish".
+                    <br>
+                    <br>
+                    <span class="kata-client-judul">Benny wecarespringbed.com</span>
+                     <br>
+                    <span  class="kata-client-paket">Paket Umum</span>
+                  </p>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    <!-- footer -->
+      <div class="container-fluid footer">
+        <div class="row justify-content-center">
+          <div class="col-lg-4 col-md-12 col-sm-12">
+           <img src="assets/img/logo-footer.png">
+           <br><br>
+            <p>Pilih paket sesuai kebutuhanmu. Jadikan usahamu semakin terkenal, tunjukan karyamu dan dapatkan mentoring yang fleksibel. </p>
+            <p>&copy 2022 YBRevolution</p>
+          </div>
+          <div class="col-lg-4 col-md-12 col-sm-12">
+           <h1>Kontak Kami</h1>
+           <ul>
+             <li><a href="mailto:bisnisybrevolution@gmail.com">bisnisybrevolution@gmail.com</a></li>
+             <li><a href="https://api.whatsapp.com/send?phone=6289694612922&text=Halo! Saya sudah berkunjung ke website YBRevolution dan saya ingin bertanya.">+62 896-9461-2922</a></li>
+           </ul>
+            <h1>Tetap Terhubung</h1>
+           <ul>
+             <li><a href="mailto:bisnisybrevolution@gmail.com">bisnisybrevolution@gmail.com</a></li>
+             <li><a href="https://api.whatsapp.com/send?phone=6289694612922&text=Halo! Saya sudah berkunjung ke website YBRevolution dan saya ingin bertanya.">+62 896-9461-2922</li>
+           </ul>
+          </div>
+         </div>
+        </div>
+      </div>
+     
     <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://kit.fontawesome.com/5704997521.js" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>

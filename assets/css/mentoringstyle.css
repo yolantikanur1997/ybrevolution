@@ -1,0 +1,439 @@
+ /*Extra small devices (phones, 600px and down) */
+ @media (max-width: 990px) {
+.navbar.navbar-expand-lg .navbar-nav .nav-item{
+	font-size: 20px;
+	padding: 0 0 0 2%;	
+}
+.navbar.navbar-expand-lg .navbar-brand{
+	font-size: 20px;
+	padding: 0 0 0 2%;
+}
+.btn.btn-ybr{
+	font-size: 20px;
+}
+.btn.btn-ybr-biru{
+	font-size: 20px;
+	margin: 3% 0% 3% 0%;
+}
+.title-section{
+	font-size: 30px;
+}
+.container-fluid.header-mentoring .row{
+	display: flex;
+	  flex-wrap: wrap;
+	  flex-direction: column-reverse;
+   /* so that items wrap */
+}
+.container-fluid.header-mentoring{
+	padding: 25% 10% 0% 10%;
+	color: #141F35;
+	text-align: center;
+}
+.container-fluid.header-mentoring h1{
+	font-size: 40px;
+	margin: 0% 0% 0% 0%;
+} 
+.container-fluid.header-mentoring .col-lg-6.col-md-12.col-sm-12.img-header img{
+	width: 80%;
+	margin: 0px auto 0px auto;
+	display: block;
+
+}
+.container-fluid.header-mentoring .row .col-lg-6.col-md-12.col-sm-12.txt-header{
+	padding-bottom: 10%;
+}
+.container-fluid.header-mentoring .row .col-lg-6.col-md-12.col-sm-12.txt-header h1{
+	font-size: 40px;
+	margin: 0% 0% 0% 0%;
+} 
+.container-fluid.header-mentoring .row .col-lg-6.col-md-12.col-sm-12.txt-header h3{
+	font-size: 20px;
+	margin: 3% 0% 3% 0%;
+} 
+.container-fluid.paket-terlaris{
+	padding: 14% 4% 14% 4%;
+	color: #000000;
+	text-align: center;
+}
+.container-fluid.paket-terlaris p{
+	font-size: 20px;
+	padding: 0% 0% 0% 0%;
+}
+.container-fluid.paket-terlaris .txt-paket{
+	font-size: 15px;
+	padding: 0% 0% 0% 0%;
+}
+.container-fluid.paket-terlaris .row  .col-lg-4.col-md-12.col-sm-12{
+	padding: 3%;
+}
+.container-fluid.semua-paket{
+	padding: 4% 10% 4% 10%;
+	color: #000000;
+	text-align: center;
+}
+.container-fluid.semua-paket p{
+	font-size: 20px;
+	padding: 14% 4% 14% 4%;
+}
+.container-fluid.semua-paket .txt-paket{
+	font-size: 15px;
+	padding: 0% 0% 0% 0%;
+}
+
+.container-fluid.semua-paket .col-lg-12.col-md-12.col-sm-12 .nav .nav-item{
+	width: 100%;
+	font-size: 20px;
+	text-align: left;
+
+}
+.container-fluid.semua-paket .col-lg-12.col-md-12.col-sm-12 .nav .nav-item .nav-link{
+	color: #000000;
+
+}
+.container-fluid.semua-paket .row  .col-lg-12.col-md-12.col-sm-12 .tab-content .row .col-lg-4.col-md-12.col-sm-12{
+	padding: 3% 0% 3% 0%;
+}
+.container-fluid.footer {
+	padding: 14%;
+}
+.container-fluid.footer .row .col-lg-4.col-md-6.col-sm-12{
+	padding: 0% 0% 0% 0%;
+}
+.container-fluid.footer .row .col-lg-4.col-md-6.col-sm-12 h1{
+	font-size: 22px;
+}
+.container-fluid.footer .row .col-lg-4.col-md-6.col-sm-12 p{
+	font-size: 20px;
+}
+.container-fluid.footer .row .col-lg-4.col-md-6.col-sm-12 ul{
+	padding-left: 0px;
+}
+.container-fluid.footer .row .col-lg-4.col-md-6.col-sm-12 ul li{
+	font-size: 20px;
+	list-style-type: none;
+}
+.container-fluid.footer .row .col-lg-4.col-md-6.col-sm-12 ul li a{
+	color: #FFFFFF;
+}
+
+}
+
+
+ /*Large devices (laptops/desktops, 992px and up) */
+@media (min-width: 1000px) {
+.navbar.navbar-expand-lg .navbar-nav .nav-item{
+	font-size: 20px;
+
+
+}
+.navbar.navbar-expand-lg .navbar-brand{
+	font-size: 20px;
+
+}
+.btn.btn-ybr{
+	font-size: 20px;
+	padding: 10px;
+}
+.btn.btn-ybr-biru{
+	font-size: 20px;
+	padding: 10px;
+	margin: 3% 0% 0% 0%;
+
+}
+.title-section{
+	font-size: 40px;
+}
+.container-fluid.header-mentoring{
+	padding: 10% 14% 0% 14%;
+	color: #141F35;
+	text-align: left;
+}
+.container-fluid.header-mentoring .col-lg-6.col-md-12.col-sm-12.img-header img{
+	width: 80%;
+	margin: 0px auto 0px auto;
+	display: block;
+
+}
+.container-fluid.header-mentoring .row .col-lg-6.col-md-12.col-sm-12.txt-header{
+	padding-bottom: 0%;
+}
+.container-fluid.header-mentoring .row .col-lg-6.col-md-12.col-sm-12.txt-header h1{
+	font-size: 39px;
+	margin: 0% 0% 0% 0%;
+} 
+.container-fluid.header-mentoring .row .col-lg-6.col-md-12.col-sm-12.txt-header h3{
+	font-size: 20px;
+	margin: 3% 0% 3% 0%;
+}
+.container-fluid.paket-terlaris{
+	padding: 4%;
+	color: #000000;
+	text-align: center;
+}
+.container-fluid.paket-terlaris p{
+	font-size: 20px;
+	padding: 0% 25% 0% 25%;
+}
+.container-fluid.paket-terlaris .txt-paket{
+	font-size: 15px;
+	padding: 0% 0% 0% 0%;
+}
+.container-fluid.paket-terlaris .row  .col-lg-4.col-md-12.col-sm-12{
+	padding: 1%;
+} 
+.container-fluid.semua-paket{
+	padding: 4% 10% 4% 10%;
+	color: #000000;
+	text-align: center;
+}
+.container-fluid.semua-paket p{
+	font-size: 20px;
+	padding: 0% 25% 0% 25%;
+}
+.container-fluid.semua-paket .txt-paket{
+	font-size: 15px;
+	padding: 0% 0% 0% 0%;
+}
+
+.container-fluid.semua-paket .col-lg-12.col-md-12.col-sm-12 .nav .nav-item{
+	width: 25%;
+	font-size: 20px;
+
+}
+.container-fluid.semua-paket .col-lg-12.col-md-12.col-sm-12 .nav .nav-item .nav-link{
+	color: #000000;
+
+}
+.container-fluid.semua-paket .row  .col-lg-12.col-md-12.col-sm-12 .tab-content .row .col-lg-4.col-md-12.col-sm-12{
+	padding: 1%;
+}
+.container-fluid.footer {
+	padding: 4% 2% 4% 2%;
+}
+.container-fluid.footer .row .col-lg-4.col-md-6.col-sm-12{
+	padding: 0% 0% 0% 0%;
+}
+.container-fluid.footer .row .col-lg-4.col-md-6.col-sm-12 h1{
+	font-size: 22px;
+}
+.container-fluid.footer .row .col-lg-4.col-md-6.col-sm-12 p{
+	font-size: 20px;
+}
+.container-fluid.footer .row .col-lg-4.col-md-6.col-sm-12 ul{
+	padding-left: 0px;
+}
+.container-fluid.footer .row .col-lg-4.col-md-6.col-sm-12 ul li{
+	font-size: 20px;
+	list-style-type: none;
+}
+.container-fluid.footer .row .col-lg-4.col-md-6.col-sm-12 ul li a{
+	color: #FFFFFF;
+}
+.container-fluid.footer .row .col-lg-12.col-md-6.col-sm-12{
+	padding: 0% 13% 0% 3%;
+}
+}
+
+
+ /*Extra large devices (large laptops and desktops, 1200px and up) */
+@media (min-width: 1200px) {
+.navbar.navbar-expand-lg .navbar-nav .nav-item{
+	font-size: 25px;
+
+}
+.navbar.navbar-expand-lg .navbar-brand{
+	font-size: 25px;
+
+}
+.container-fluid.my-banner h1{
+	font-size: 60px;
+	margin: 0% 0% 3% 0%;
+
+}
+.container-fluid.my-banner h3{
+	font-size: 40px;
+	margin: 3% 0% 3% 0%;
+
+}
+.container-fluid.my-banner h5{
+	font-size: 20px;
+	margin: 3% 0% 3% 0%;
+
+
+}
+.btn.btn-ybr{
+	font-size: 20px;
+	padding: 10px;
+}
+.btn.btn-ybr-biru{
+	font-size: 20px;
+	padding: 10px;
+	margin: 3% 0% 3% 0%;
+
+}
+
+.title-section{
+	font-size: 40px;
+}
+.container-fluid.header-mentoring{
+	padding: 10% 14% 0% 14%;
+	color: #141F35;
+	text-align: left;
+}
+.container-fluid.header-mentoring .col-lg-6.col-md-12.col-sm-12.img-header img{
+	width: 85%;
+	margin: 0px auto 0px auto;
+	display: block;
+
+}
+.container-fluid.header-mentoring .row .col-lg-6.col-md-12.col-sm-12.txt-header{
+	/*padding-bottom: 10%;*/
+}
+.container-fluid.header-mentoring .row .col-lg-6.col-md-12.col-sm-12.txt-header h1{
+	font-size: 55px;
+	margin: 0% 0% 0% 0%;
+} 
+.container-fluid.header-mentoring .row .col-lg-6.col-md-12.col-sm-12.txt-header h3{
+	font-size: 25px;
+	margin: 3% 0% 3% 0%;
+} 
+
+.container-fluid.paket-terlaris{
+	padding: 4% 10% 4% 10%;
+	color: #000000;
+	text-align: center;
+}
+.container-fluid.paket-terlaris p{
+	font-size: 20px;
+	padding: 0% 25% 0% 25%;
+}
+.container-fluid.paket-terlaris .txt-paket{
+	font-size: 15px;
+	padding: 0% 0% 0% 0%;
+}
+.container-fluid.paket-terlaris .row  .col-lg-4.col-md-12.col-sm-12{
+	padding: 1%;
+}
+.container-fluid.semua-paket{
+	padding: 4% 10% 4% 10%;
+	color: #000000;
+	text-align: center;
+}
+.container-fluid.semua-paket p{
+	font-size: 20px;
+	padding: 0% 25% 0% 25%;
+}
+.container-fluid.semua-paket .txt-paket{
+	font-size: 15px;
+	padding: 0% 0% 0% 0%;
+}
+
+.container-fluid.semua-paket .col-lg-12.col-md-12.col-sm-12 .nav .nav-item{
+	width: 25%;
+	font-size: 20px;
+
+}
+.container-fluid.semua-paket .col-lg-12.col-md-12.col-sm-12 .nav .nav-item .nav-link{
+	color: #000000;
+
+}
+.container-fluid.semua-paket .row  .col-lg-12.col-md-12.col-sm-12 .tab-content .row .col-lg-4.col-md-12.col-sm-12{
+	padding: 1%;
+}
+.container-fluid.footer {
+	padding: 4%;
+}
+.container-fluid.footer .row .col-lg-4.col-md-6.col-sm-12{
+	padding: 0% 3% 0% 3%;
+}
+.container-fluid.footer .row .col-lg-4.col-md-6.col-sm-12 h1{
+	font-size: 22px;
+}
+.container-fluid.footer .row .col-lg-4.col-md-6.col-sm-12 p{
+	font-size: 20px;
+}
+.container-fluid.footer .row .col-lg-4.col-md-6.col-sm-12 ul{
+	padding-left: 0px;
+}
+.container-fluid.footer .row .col-lg-4.col-md-6.col-sm-12 ul li{
+	font-size: 20px;
+	list-style-type: none;
+}
+.container-fluid.footer .row .col-lg-4.col-md-6.col-sm-12 ul li a{
+	color: #FFFFFF;
+}
+.container-fluid.footer .row .col-lg-12.col-md-6.col-sm-12{
+	padding: 0% 13% 0% 3%;
+}
+}
+  body{
+	background-color: whitesmoke;
+	font-family: serif;
+}
+.navbar.navbar-expand-lg{
+	background-color: #141F35;
+	padding: 1%;	
+}
+.btn.btn-ybr{
+	background: #FBC84F;
+	color: #141F35;
+}
+.btn.btn-ybr-biru{
+	background: #141F35;
+	color: #FBC84F;
+
+}
+.container-fluid.header-mentoring .txtybr{
+	font-weight: bold;
+	color: #141F35;
+}
+.container-fluid.header-mentoring{
+	background:  #FBC84F;
+
+}
+.container-fluid.header-mentoring .row .col-lg-6.col-md-12.col-sm-12{
+	margin: auto;
+}
+
+.container-fluid.header-mentoring .col-lg-6.col-md-12.col-sm-12.img-header img{
+	margin: 0px auto 0px auto;
+
+}
+.title-paket{
+	font-size: 20px;
+	font-weight: bold;
+}
+.harga-paket{
+	font-size: 15px;
+}
+.harga-paket-total{
+	font-weight: bold;
+	
+}
+.fitur-judul{
+	font-size: 15px;
+	text-align: left;
+	font-weight: bold;
+}
+.list-group-item.fitur{
+	font-size: 15px;
+	text-align: left;
+}
+.container-fluid.paket-terlaris{
+	background:  #FFFFFF;
+
+}
+.container-fluid.semua-paket{
+	background:  #FFFFFF;
+
+}
+
+.container-fluid.footer {
+	background: #071c47;
+	align-content: center;
+	color: #FFFFFF;
+}
+.container-fluid.footer .row{
+
+	vertical-align: middle;
+}

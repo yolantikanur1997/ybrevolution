@@ -24,19 +24,23 @@
 }
 .container-fluid.my-banner h1{
 	font-size: 40px;
+	margin: 0% 0% 3% 0%;
 
 }
 .container-fluid.my-banner h3{
 	font-size: 20px;
+	margin: 3% 0% 3% 0%;
 }
 .container-fluid.my-banner h5{
 	font-size: 15px;
+	margin: 3% 0% 3% 0%;
 }
 .btn.btn-ybr{
 	font-size: 20px;
 }
 .btn.btn-ybr-biru{
 	font-size: 20px;
+	margin: 3% 0% 3% 0%;
 }
 .container-fluid.my-banner{
 	background: #141F35;
@@ -182,14 +186,17 @@
 }
 .container-fluid.my-banner h1{
 	font-size: 40px;
+	margin: 0% 0% 3% 0%;
 
 }
 .container-fluid.my-banner h3{
 	font-size: 20px;
+	margin: 3% 0% 3% 0%;
 
 }
 .container-fluid.my-banner h5{
 	font-size: 18px;
+	margin: 3% 0% 3% 0%;
 
 }
 .btn.btn-ybr{
@@ -199,6 +206,7 @@
 .btn.btn-ybr-biru{
 	font-size: 20px;
 	padding: 10px;
+	margin: 3% 0% 3% 0%;
 
 }
 .container-fluid.my-banner{
@@ -227,9 +235,11 @@
 }
 .container-fluid.why-mentoring p{
 	font-size: 20px;
+	padding: 0% 15% 0% 15%;
 }
 .container-fluid.why-mentoring .row .col-lg-6.col-md-12.col-sm-12 p{
 	font-size: 20px;
+	padding: 0%;
 }
 .container-fluid.umum{
 	padding: 4%;
@@ -239,9 +249,11 @@
 }
 .container-fluid.umum p{
 	font-size: 20px;
+	padding: 0% 15% 0% 15%;
 }
 .container-fluid.umum .row .col-lg-6.col-md-12.col-sm-12 p{
 	font-size: 20px;
+	padding: 0%;
 }
 .container-fluid.umum img{
 	width: 80%;
@@ -291,6 +303,31 @@
 	font-weight: bold;
 	font-style: italic;
 }
+.container-fluid.footer {
+	padding: 4% 2% 4% 2%;
+}
+.container-fluid.footer .row .col-lg-4.col-md-6.col-sm-12{
+	padding: 0% 0% 0% 0%;
+}
+.container-fluid.footer .row .col-lg-4.col-md-6.col-sm-12 h1{
+	font-size: 22px;
+}
+.container-fluid.footer .row .col-lg-4.col-md-6.col-sm-12 p{
+	font-size: 20px;
+}
+.container-fluid.footer .row .col-lg-4.col-md-6.col-sm-12 ul{
+	padding-left: 0px;
+}
+.container-fluid.footer .row .col-lg-4.col-md-6.col-sm-12 ul li{
+	font-size: 20px;
+	list-style-type: none;
+}
+.container-fluid.footer .row .col-lg-4.col-md-6.col-sm-12 ul li a{
+	color: #FFFFFF;
+}
+.container-fluid.footer .row .col-lg-12.col-md-6.col-sm-12{
+	padding: 0% 13% 0% 3%;
+}
 }
 
 
@@ -306,14 +343,18 @@
 }
 .container-fluid.my-banner h1{
 	font-size: 60px;
+	margin: 0% 0% 3% 0%;
 
 }
 .container-fluid.my-banner h3{
 	font-size: 40px;
+	margin: 3% 0% 3% 0%;
 
 }
 .container-fluid.my-banner h5{
 	font-size: 20px;
+	margin: 3% 0% 3% 0%;
+
 
 }
 .btn.btn-ybr{
@@ -323,6 +364,7 @@
 .btn.btn-ybr-biru{
 	font-size: 20px;
 	padding: 10px;
+	margin: 3% 0% 3% 0%;
 
 }
 .container-fluid.my-banner{
@@ -351,9 +393,11 @@
 }
 .container-fluid.why-mentoring p{
 	font-size: 20px;
+	padding: 0% 30% 0% 30%;
 }
 .container-fluid.why-mentoring .row .col-lg-6.col-md-12.col-sm-12 p{
 	font-size: 25px;
+	padding: 0%;
 }
 .container-fluid.umum{
 	padding: 4%;
@@ -363,9 +407,11 @@
 }
 .container-fluid.umum p{
 	font-size: 20px;
+	padding: 0% 30% 0% 30%;
 }
 .container-fluid.umum .row .col-lg-6.col-md-12.col-sm-12 p{
 	font-size: 25px;
+	padding: 0%;
 }
 .container-fluid.umum img{
 	width: 80%;

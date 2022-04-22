@@ -381,8 +381,15 @@
 .btn.btn-ybr-biru{
 	background: #141F35;
 	color: #FBC84F;
+	text-decoration: none;
 
 }
+.lnk-paket {
+	text-decoration: none;
+	background: red;
+
+}
+
 .container-fluid.header-mentoring .txtybr{
 	font-weight: bold;
 	color: #141F35;
@@ -427,7 +434,13 @@
 	background:  #FFFFFF;
 
 }
+.paket-terlaris a{
+	text-decoration: none;
+}
+.semua-paket  a{
+	text-decoration: none;
 
+}
 .container-fluid.footer {
 	background: #071c47;
 	align-content: center;

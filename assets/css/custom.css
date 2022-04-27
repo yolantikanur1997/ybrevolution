@@ -229,6 +229,7 @@
 .container-fluid.why-mentoring .row .col-lg-6.col-md-12.col-sm-12{
 	margin: auto;
 	padding: 0% 0 0 0;
+	text-align: left;
 }
 .title-section{
 	font-size: 40px;
@@ -241,11 +242,14 @@
 	font-size: 20px;
 	padding: 0%;
 }
+
 .container-fluid.umum{
 	padding: 4%;
 }
 .container-fluid.umum .row .col-lg-6.col-md-12.col-sm-12{
+	margin: auto;
 	padding: 5% 0 0 0;
+	text-align: left;
 }
 .container-fluid.umum p{
 	font-size: 20px;
@@ -254,6 +258,7 @@
 .container-fluid.umum .row .col-lg-6.col-md-12.col-sm-12 p{
 	font-size: 20px;
 	padding: 0%;
+	
 }
 .container-fluid.umum img{
 	width: 80%;
@@ -262,7 +267,7 @@
 	padding: 4% 5% 4% 5%;
 }
 .container-fluid.portofolio img{
-	width: 100%;
+	width: 100%;`
 	margin: 0px auto 0px auto;
 
 }
@@ -387,6 +392,7 @@
 .container-fluid.why-mentoring .row .col-lg-6.col-md-12.col-sm-12{
 	margin: auto;
 	padding: 0% 0 0 0;
+	text-align: left;
 }
 .title-section{
 	font-size: 40px;
@@ -394,6 +400,7 @@
 .container-fluid.why-mentoring p{
 	font-size: 20px;
 	padding: 0% 30% 0% 30%;
+
 }
 .container-fluid.why-mentoring .row .col-lg-6.col-md-12.col-sm-12 p{
 	font-size: 25px;

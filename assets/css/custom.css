@@ -333,6 +333,10 @@
 .container-fluid.footer .row .col-lg-12.col-md-6.col-sm-12{
 	padding: 0% 13% 0% 3%;
 }
+.container-fluid.instagram.row .col-lg-6.col-md-6.col-sm-6{
+	padding: 4% 10% 4% 10%;
+
+}
 }
 
 
@@ -496,6 +500,10 @@
 .container-fluid.footer .row .col-lg-12.col-md-6.col-sm-12{
 	padding: 0% 13% 0% 3%;
 }
+.container-fluid.instagram .row .col-lg-6.col-md-6.col-sm-6{
+	padding: 4% 10% 4% 10%;
+
+}
 }
   body{
 	background-color: whitesmoke;
@@ -592,4 +600,8 @@
 
 	vertical-align: middle;
 }
-
+.container-fluid.instagram{
+	background: #141F35;
+	color: #FBC84F;
+	/*padding: 3%;*/
+}
